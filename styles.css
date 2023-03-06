@@ -1570,3 +1570,17 @@ img {
 .team-10 .team-social a:hover {
     background: #222222;
 }
+/*Round the input box in modal-body*/
+.modal-body input {
+    border-radius: 5px;
+}
+
+/* Center h5 in modal header*/
+.modal-header h5 {
+    margin: auto;
+}
+
+/* Center button in modal footer */
+.modal-footer {
+    justify-content: center;
+}
